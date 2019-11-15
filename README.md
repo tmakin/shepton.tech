@@ -1,6 +1,6 @@
 # Next Event 
 **Thursday November 28th 2019**  
-7:00 - 9:00 @ The Art Bank, Shepton Mallet  
+7:00 - 10:00 @ The Art Bank, Shepton Mallet  
 [[Map]][art-bank-map]
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
