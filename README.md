@@ -1,5 +1,5 @@
 # Next Event 
-Thursday December 19th 2019 🎄🎄🎄 
+Thursday December 19th 2019 🎄🎄🎄  
 7:00 - 10:00 @ Shepton Mallet, Venue TBC*
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
