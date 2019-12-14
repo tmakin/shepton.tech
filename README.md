@@ -5,7 +5,7 @@
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
 No agenda, just come on down, meet, be merry, and talk about stuff.
 
-*_[The Art Bank](art-bank-map) has a sea shanty gig that day, but music doesn't start till 8:00 so we can either stick around or head elsewhere in town. So please try and arrive by 8:00 if you are planning to come along._
+*_[The Art Bank][art-bank-map] has a sea shanty gig that day, but music doesn't start till 8:00 so we can either stick around or head elsewhere in town. So please try and arrive by 8:00 if you are planning to come along._
 
 ## About
 A meetup group for tech folk who live in and around the aspiring tech hub of Shepton Mallet in Somerset. Generally we meet last Thursday of the month somewhere in town.
