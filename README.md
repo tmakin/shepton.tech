@@ -1,11 +1,11 @@
 # Next Event 
 **Thursday December 19th 2019** 🎄🎄🎄  
-7:00 - 10:00 @ Shepton Mallet, Venue TBC*
+7:00 - 10:00 @ The Art Bank, Shepton Mallet*
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
 No agenda, just come on down, meet, be merry, and talk about stuff.
 
-*_Our usual art bank venue has a gig that day, so we might need to head somewhere else in Shepton. Please check back here nearer the time._
+*_[The Art Bank](art-bank-map) has a sea shanty gig that day, but music doesn't start till 8:00 so we can either stick around or head elsewhere in town. So please try and arrive by 8:00 if you are planning to come along._
 
 ## About
 A meetup group for tech folk who live in and around the aspiring tech hub of Shepton Mallet in Somerset. Generally we meet last Thursday of the month somewhere in town.
