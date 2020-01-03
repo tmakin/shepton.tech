@@ -7,7 +7,7 @@
 ┃┗━┓┃┗┛┃┃┗━┓┃┗┛┃
 ┗━━┛┗━━┛┗━━┛┗━━┛
 ```
-**Thursday January 30th 2020** 
+**Thursday January 30th 2020**  
 7:30 - 10:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet*
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
