@@ -1,7 +1,7 @@
 # Next Event 
 
 **Thursday March 26th 2020**  
-7:30 - 10:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet*
+7:30 - 10:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
 No agenda, just come on down, meet, be merry, and talk about stuff.
