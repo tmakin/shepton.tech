@@ -1,5 +1,5 @@
 # Next Event 
-Sadly we have to had to put our events on hold for the time being, until the world gets back on its feet again. 
+Sadly we have to put our events on hold for the time being, until the world gets back on its feet again. 
 
 If you want to get involved in collaborating with other likeminded folk from around the globe, in collecting data, research, modelling, working-from-home practices, the fight against misinformation etc. then check out the [CoronavirusTechHandbook](https://coronavirustechhandbook.com/)
 
