@@ -1,6 +1,9 @@
 # Next Event 
+Sadly we have to had to put our events on hold for the time being, until the world gets back on its feet again. 
 
-**Thursday March 26th 2020**  
+If you want to get involved in collaborating with other likeminded folk from around the globe, in collecting data, research, modelling, working-from-home practices, the fight against misinformation etc. then check out the [CoronavirusTechHandbook](https://coronavirustechhandbook.com/)
+
+~**Thursday March 26th 2020**~ CANCELLED    
 7:30 - 10:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
