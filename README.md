@@ -1,8 +1,8 @@
 # Next Event 
 The Art Bank has opened its doors again so we are back in business!
 
-**Thursday October 22nd 2020**  
-7:30 - 10:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet  
+**Thursday June 24th 2021**  
+8:00 - 11:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet  
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
 No agenda, just come on down, meet, be merry, and talk about stuff.
