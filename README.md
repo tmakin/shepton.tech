@@ -1,11 +1,10 @@
 # Next Event 
-The Art Bank has opened its doors again so we are back in business!
 
-**Thursday July 1st 2021**  
+**Thursday September 30th 2021**  
 8:00 - 11:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet  
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
-No agenda, just come on down, meet, be merry, and talk about stuff.
+No agenda, just come on down, have a cup of something, and talk about stuff.
 
 ## About
 A meetup group for tech folk who live in and around the aspiring tech hub of Shepton Mallet in Somerset. Generally we meet last Thursday of the month somewhere in town.
