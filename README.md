@@ -1,6 +1,6 @@
 # Next Event 
 
-**Thursday November 25th 2021**  
+**Thursday February 3rd 2022**  
 8:00 - 11:00 @ [The Art Bank](http://www.artbank.org.uk), Shepton Mallet  
 
 Calling local software developers, tech managers, digital enthusiasts, and anyone else who might be interested.
